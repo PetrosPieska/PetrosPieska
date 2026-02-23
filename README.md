@@ -2,7 +2,7 @@
 
 # Hi, I'm Petros 👋
 
-🎓 Information Technology student  
+🎓 Business & Information System student at Oulu University of Applied Sciences
 💻 Full Stack Developer in the making  
 🚀 Building production-ready web applications  
 
